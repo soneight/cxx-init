@@ -1,0 +1,2 @@
+# cxx-init
+C++ template
