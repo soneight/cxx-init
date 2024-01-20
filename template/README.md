@@ -2,5 +2,6 @@
 ## TEMPLATE
 
 > Project directory structure
-
-- **`template`** _project structure information_
+- **`include`** _include header files_
+- **`source` _source files_
+- **`template`** _structure information_
